@@ -1,0 +1,9 @@
+.DS_Store
+
+dist/
+#terraform
+terraform/.terraform/
+*.tfstate
+*.tfstate.backup
+
+node_modeules/

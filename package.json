@@ -1,0 +1,27 @@
+{
+  "name": "rjrbt.io",
+  "version": "1.0.0",
+  "description": "landing page for rjrbt",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "node scripts/build.js && ./scripts/statichost",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjrbt/rjrbt.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjrbt/rjrbt.io/issues"
+  },
+  "homepage": "https://github.com/rjrbt/rjrbt.io#readme",
+  "devDependencies": {
+    "minify": "4.1.0",
+    "mkdirp": "0.5.1",
+    "ncp": "2.0.0",
+    "purify-css": "1.2.5"
+  }
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>rjrbt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="rojoroboto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M108,78.5 L108,99 L21,99 L21,77 L27,77 L27,67 L102,67 L102,72 L108,72 L108,78.5 L108,78.5 Z M102,45 L102,8 L21,8 L21,67 L98,67 L108,67 L108,45 L102,45 L102,45 Z M27,99 L102,99 L102,104 L27,104 L27,99 L27,99 Z M32,104 L64,104 L64,121 L32,121 L32,104 L32,104 Z M70,104 L97,104 L97,121 L70,121 L70,104 L70,104 Z" id="base-black" fill="#000000" sketch:type="MSShapeGroup"></path>
+        <g id="red" sketch:type="MSLayerGroup" transform="translate(27.000000, 13.000000)" fill="#CC1C00">
+            <path d="M0,0 L70,0 L70,27 L0,27 L0,0 L0,0 Z M21,27 L70,27 L70,38 L21,38 L21,27 L21,27 Z M16,27 L21,27 L21,32 L16,32 L16,27 L16,27 Z" id="head---red" sketch:type="MSShapeGroup"></path>
+            <path d="M27,43 L75,43 L75,48 L27,48 L27,43 L27,43 Z M70,38 L75,38 L75,43 L70,43 L70,38 L70,38 Z" id="jaw---red" sketch:type="MSShapeGroup"></path>
+            <rect id="arm---top-left" sketch:type="MSShapeGroup" x="70" y="59" width="5" height="11"></rect>
+            <rect id="arm---bottom-left" sketch:type="MSShapeGroup" x="70" y="75" width="5" height="6"></rect>
+            <path d="M27,70 L64,70 L64,86 L27,86 L27,70 L27,70 Z M48,59 L64,59 L64,70 L48,70 L48,59 L48,59 Z" id="body---red" sketch:type="MSShapeGroup"></path>
+            <path d="M5,75 L16,75 L16,81 L5,81 L5,75 L5,75 Z M11,81 L16,81 L16,86 L11,86 L11,81 L11,81 Z" id="arm---right-lower" sketch:type="MSShapeGroup"></path>
+            <path d="M11,54 L16,54 L16,64 L11,64 L11,54 L11,54 Z M5,64 L11,64 L11,70 L5,70 L5,64 L5,64 Z" id="arm---right-upper" sketch:type="MSShapeGroup"></path>
+            <rect id="leg---left" sketch:type="MSShapeGroup" x="54" y="97" width="10" height="5"></rect>
+            <rect id="leg---right" sketch:type="MSShapeGroup" x="21" y="97" width="11" height="5"></rect>
+        </g>
+        <g id="dark-red" sketch:type="MSLayerGroup" transform="translate(27.000000, 13.000000)" fill="#991200">
+            <rect id="head---dark-red" sketch:type="MSShapeGroup" x="0" y="0" width="16" height="27"></rect>
+            <path d="M0,32 L16,32 L16,48 L0,48 L0,32 L0,32 L0,32 L0,32 Z M5,38 L11,38 L11,43 L5,43 L5,38 L5,38 Z M16,43 L32,43 L32,48 L16,48 L16,43 L16,43 Z" id="jaw---dark-red" sketch:type="MSShapeGroup"></path>
+            <path d="M21,54 L64,54 L64,59 L21,59 L21,54 L21,54 Z M21,59 L48,59 L48,64 L21,64 L21,59 L21,59 Z M16,64 L48,64 L48,70 L16,70 L16,64 L16,64 Z M16,70 L27,70 L27,75 L16,75 L16,70 L16,70 Z M21,75 L27,75 L27,86 L21,86 L21,75 L21,75 Z" id="bodoy---dark" sketch:type="MSShapeGroup"></path>
+            <rect id="arm---left-lower" sketch:type="MSShapeGroup" x="70" y="81" width="5" height="5"></rect>
+            <path d="M48,91 L64,91 L64,97 L48,97 L48,91 L48,91 Z M48,97 L54,97 L54,102 L48,102 L48,97 L48,97 Z" id="leg---left-dark" sketch:type="MSShapeGroup"></path>
+            <path d="M16,91 L32,91 L32,97 L16,97 L16,91 L16,91 Z M11,97 L21,97 L21,102 L11,102 L11,97 L11,97 Z" id="leg---right-dark" sketch:type="MSShapeGroup"></path>
+            <path d="M0,75 L5,75 L5,86 L0,86 L0,75 L0,75 Z M5,81 L11,81 L11,91 L5,91 L5,81 L5,81 Z M11,86 L16,86 L16,91 L11,91 L11,86 L11,86 Z" id="arm---right-dark" sketch:type="MSShapeGroup"></path>
+            <path d="M5,54 L11,54 L11,64 L5,64 L5,54 L5,54 Z M0,64 L5,64 L5,70 L0,70 L0,64 L0,64 Z" id="arm---right-dark" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="eyes" sketch:type="MSLayerGroup" transform="translate(54.000000, 40.000000)" fill="#FFFFFF">
+            <rect id="eye---left" sketch:type="MSShapeGroup" x="0" y="0" width="5" height="5"></rect>
+            <rect id="eye---right" sketch:type="MSShapeGroup" x="32" y="0" width="5" height="5"></rect>
+        </g>
+    </g>
+</svg>
