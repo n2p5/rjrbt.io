@@ -3,7 +3,7 @@
 # exit on error
 set -e
 
-DIR=dist
+DIR=src
 BUCKET=s3://rjrbt.io
 DIST_ID=$RJRBT_CDN_DIST_ID
 CACHE_ID=$(date +%s)
